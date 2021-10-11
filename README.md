@@ -1,6 +1,6 @@
-### Hi there 👋, Diksha here.
+# Hi there 👋, Diksha here.
 
-### Let me introduce myself:
+## Let me introduce myself:
 
 - 🔭 I’m currently in **3rd year** pursuing **Bachelors of Technology** from **Netaji Subhas University of Technology, East Campus (Formerly AIACTR)**.
 - 🌱 I’m currently learning Android Application Development.
